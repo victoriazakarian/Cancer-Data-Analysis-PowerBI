@@ -54,7 +54,7 @@ These observations describe the dashboard's displayed data and should be interpr
 
 ## Video Demonstration
 
-[Watch the Power BI Dashboard Demonstration](assets/cancer-dashboard-demo.mov)
+[Watch the Power BI Dashboard Demonstration](assets/cancer-dashboard-demo.mp4)
 
 ## Project Availability
 
